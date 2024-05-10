@@ -1,4 +1,4 @@
-package go_for_all
+package moduleexample
 
 import "fmt"
 

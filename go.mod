@@ -1,3 +1,3 @@
-module github.com/MarkVoronov/go_for_all
+module github.com/MarkVoronov/moduleexample
 
 go 1.20
